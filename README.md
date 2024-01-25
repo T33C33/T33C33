@@ -1,4 +1,4 @@
-## SEO :chart_with_upwards_trend: || ALX STUDENT SOFTWARE ENGINEER :man_technologist:
+## SEO SPECIALIST:chart_with_upwards_trend: || ALX STUDENT SOFTWARE ENGINEER :man_technologist: || CYBERSECURITY INTERN
 
 I was a seasoned SEO Specialist until my website and a client's got hacked. The frustration drove me into cybersecurity with an ignited passion for security, and into software engineering with sharpened curiosity to understand under-the-hood operations of software systems and tech devices; looking forward to building more secure and efficient systems for every user.
 
