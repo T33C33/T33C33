@@ -1,6 +1,6 @@
 ## SEO SPECIALIST 📈 || ALX STUDENT SOFTWARE ENGINEER (</>) || CYBERSECURITY INTERN 🔐
 
-I was a seasoned SEO Specialist until my website and a client's got hacked. The frustration drove me into cybersecurity with an ignited passion for security, and into software engineering with sharpened curiosity to understand under-the-hood operations of software systems and tech devices; looking forward to building more secure and efficient systems for every user.
+I am a seasoned SEO Specialist and mine and a client's website security was breached. The frustration drove me into cybersecurity with an ignited passion for security, and into software engineering with sharpened curiosity to understand under-the-hood operations of software systems and tech devices; looking forward to building more secure and efficient systems for every user.
 
 Currently a Software Engineering student at ALX and a cybersecurity intern at Cyber Security India (CSI)
 
