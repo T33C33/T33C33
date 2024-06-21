@@ -35,3 +35,4 @@ Making learning progress in these three(3) industries in the following areas:
 📧: [Send me an email](mailto:teeceeiheukwumere@gmail.com)
 
 I am interested in connecting with like-minded professionals, contributing to open source projects, and exploring new opportunities.
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
