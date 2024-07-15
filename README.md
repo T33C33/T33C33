@@ -5,6 +5,7 @@ I am a seasoned SEO Specialist and mine and a client's website security was brea
 Currently a Software Engineering student at ALX and a cybersecurity intern at Cyber Security India (CSI)
 
 Making learning progress in these three(3) industries in the following areas:
+
 - Search Engine Optimization (SEO)
     - On-Page SEO
     - Off- Page SEO
@@ -15,17 +16,16 @@ Making learning progress in these three(3) industries in the following areas:
     - Security Principles (CC)
     - Cyber Threat Management
     - Network Defense
-    - EndPoint Seecurity
+    - Endpoint Security
    
 - Software Engineering
-    - Low-level C programming Lnaguage
+    - Low-level C programming Language
     - High-level Python
     - HTML
     - CSS
     - JavaScript
     - React
     - NodeJs
-
 
 ## Contact Me 
 📞: [Call me](tel:+2348088625285)
