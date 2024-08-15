@@ -1,4 +1,4 @@
-## SEO SPECIALIST 📈 || ALX STUDENT SOFTWARE ENGINEER (</>) || CYBERSECURITY INTERN 🔐
+## SEO SPECIALIST 📈 || SOFTWARE ENGINEER (</>)
 
 I am a seasoned SEO Specialist and mine and a client's website security was breached. The frustration drove me into cybersecurity with an ignited passion for security, and into software engineering with sharpened curiosity to understand under-the-hood operations of software systems and tech devices; looking forward to building more secure and efficient systems for every user.
 
