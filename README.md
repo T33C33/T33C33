@@ -7,6 +7,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=T33C33&show_icons=true&theme=radical)
 
+![Snake animation](https://github.com/T33C33/T33C33/blob/output/github-contribution-grid-snake.svg)
+
 ### 👨‍💻 Weekly Development
 
 <!--START_SECTION:waka-->
