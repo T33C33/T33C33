@@ -1,43 +1,38 @@
-# .github/workflows/snake.yml
-name: Generate Snake
+## SEO SPECIALIST 📈 || SOFTWARE ENGINEER (</>)
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+I am a seasoned SEO Specialist and mine and a client's website security was breached. The frustration drove me into cybersecurity with an ignited passion for security, and into software engineering with sharpened curiosity to understand under-the-hood operations of software systems and tech devices; looking forward to building more secure and efficient systems for every user.
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: yourusername
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # .github/workflows/wakatime.yml
-name: Waka Readme
+Currently a Software Engineering student at ALX and a cybersecurity intern at Cyber Security India (CSI)
 
-on:
-  schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
+Making learning progress in these three(3) industries in the following areas:
+
+- Search Engine Optimization (SEO)
+    - On-Page SEO
+    - Off- Page SEO
+    - Technical SEO
+
+- Cybersecurity
+    - Cloud Security Alliance
+    - Security Principles (CC)
+    - Cyber Threat Management
+    - Network Defense
+    - Endpoint Security
+   
+- Software Engineering
+    - Low-level C programming Language
+    - High-level Python
+    - HTML
+    - CSS
+    - JavaScript
+    - React
+    - NodeJs
+
+## Contact Me 
+📞: [Call me](tel:+2348088625285)
+
+🔗: LinkedIn: [teecee](https://www.linkedin.com/in/teecee "teecee")
+
+📧: [Send me an email](mailto:teeceeiheukwumere@gmail.com)
+
+I am interested in connecting with like-minded professionals, contributing to open source projects, and exploring new opportunities.
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
