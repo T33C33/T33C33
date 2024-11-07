@@ -1,10 +1,10 @@
-# .github/workflows/wakatime.yml
 name: Waka Readme
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -27,3 +27,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "True"
