@@ -1,17 +1,81 @@
 ## SEO SPECIALIST 📈 || SOFTWARE ENGINEER (</>)
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-## 📈 My GitHub Stats
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T33C33&show_icons=true&theme=radical)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
 
-![Snake animation](https://github.com/T33C33/T33C33/blob/output/github-contribution-grid-snake.svg)
+**🐱 My GitHub Data** 
 
-### 👨‍💻 Weekly Development
+> 📦 113.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 913 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-<!--START_SECTION:waka-->
+```text
+🌞 Morning                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌆 Daytime                549 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌃 Evening                132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌙 Night                  443 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Tuesday                  303 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 257 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Friday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Saturday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/11/2024 12:35:57 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
