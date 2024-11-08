@@ -1,6 +1,8 @@
 ## SEO SPECIALIST 📈 || SOFTWARE ENGINEER (</>)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
@@ -9,7 +11,7 @@
 
 > 📦 113.5 kB Used in GitHub's Storage 
  > 
-> 🏆 909 Contributions in the Year 2024
+> 🏆 913 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -17,6 +19,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+🌆 Daytime                552 commits         ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌃 Evening                130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+🌙 Night                  443 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Tuesday                  303 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Thursday                 257 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Saturday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -34,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 01:21:51 UTC
+ Last Updated on 08/11/2024 12:35:59 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
