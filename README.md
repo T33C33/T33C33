@@ -1,4 +1,4 @@
-## SEO SPECIALIST 📈 || SOFTWARE ENGINEER (</>)
+## SEO SPECIALIST & FRONT-END DEVELOPER (</>)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -16,40 +16,44 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
 
-I am a seasoned SEO Specialist and mine and a client's website security was breached. The frustration drove me into cybersecurity with an ignited passion for security, and into software engineering with sharpened curiosity to understand under-the-hood operations of software systems and tech devices; looking forward to building more secure and efficient systems for every user.
+# About Me
 
-Currently a Software Engineering student at ALX and a cybersecurity intern at Cyber Security India (CSI)
+👾 **SEO Specialist Version 1.0** had a security breach—both mine and a client’s site got hacked. So, I rage-upgraded to **Cybersecurity Enthusiast v2.0** and added the **Software Engineer Expansion Pack** to my life. Now, I’m debugging, safeguarding, and reprogramming the future, one system at a time.
 
-Making learning progress in these three(3) industries in the following areas:
+Currently loading:
 
-- Search Engine Optimization (SEO)
+- **Software Engineering Student** @ ALX 🖥️
+- **Cybersecurity Intern** @ Cyber Security India (CSI) 🔐
 
-  - On-Page SEO
-  - Off- Page SEO
-  - Technical SEO
+---
 
-- Cybersecurity
-  - Cloud Security Alliance
-  - Security Principles (CC)
-  - Cyber Threat Management
-  - Network Defense
-  - Endpoint Security
-- Software Engineering
-  - Low-level C programming Language
-  - High-level Python
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - NodeJs
+## Skills Matrix
 
-## Contact Me
+### 🎯 Search Engine Optimization (SEO):
 
-📞: [Call me](tel:+2348088625285)
+- On-Page SEO
+- Off-Page SEO
+- Technical SEO
 
-🔗: LinkedIn: [teecee](https://www.linkedin.com/in/teecee "teecee")
+### 🛡️ Cybersecurity:
 
-📧: [Send me an email](mailto:teeceeiheukwumere@gmail.com)
+- Cloud Security Protocols
+- Cyber Threat Neutralization
+- Network Defense Firewalls
+- Endpoint Shields
 
-I am interested in connecting with like-minded professionals, contributing to open source projects, and exploring new opportunities.
+### 👨‍💻 Software Engineering:
+
+- **Coding Level:** Low-level C to High-level Python
+- **Frontend Wizardry:** HTML, CSS, JavaScript, React
+- **Backend Sorcery:** Node.js
+
+---
+
+## Let's Connect and Collab
+
+📞 [Tech Support Hotline (Just Kidding, Call Me!)](tel:+2348088625285)  
+🔗 [My LinkedIn Lair](https://www.linkedin.com/in/teecee 'teecee')  
+📧 [Send Me a Digital Pigeon](mailto:teeceeiheukwumere@gmail.com)
+
 [![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
