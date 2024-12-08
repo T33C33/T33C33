@@ -1,7 +1,7 @@
 ## SEO SPECIALIST & FRONT-END DEVELOPER (</>)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -46,16 +46,19 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 44 mins        ██████████████████████░░░   88.74 % 
+CSS                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dave_gray                1 hr 57 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -75,7 +78,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2024 01:43:57 UTC
+ Last Updated on 08/12/2024 12:36:50 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
