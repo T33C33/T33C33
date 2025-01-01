@@ -1,7 +1,7 @@
 ## SEO SPECIALIST & FRONT-END DEVELOPER (</>)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 174.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,050 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -75,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 12:35:33 UTC
+ Last Updated on 01/01/2025 01:36:57 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
