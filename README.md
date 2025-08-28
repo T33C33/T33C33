@@ -1,4 +1,4 @@
-## SEO SPECIALIST & FRONT-END DEVELOPER (</>)
+## SEO SPECIALIST & SOFTWARE DEVELOPER (</>)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2041%20mins-blue)
