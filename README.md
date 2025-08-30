@@ -1,6 +1,8 @@
 ## SEO SPECIALIST & SOFTWARE DEVELOPER (</>)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
@@ -17,6 +19,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+🌆 Daytime                698 commits         ███████████░░░░░░░░░░░░░░   45.09 % 
+🌃 Evening                136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Tuesday                  321 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Wednesday                210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Thursday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Friday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Sunday                   109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -34,7 +75,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 01:26:20 UTC
+ Last Updated on 30/08/2025 12:37:42 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
