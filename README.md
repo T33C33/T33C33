@@ -11,11 +11,11 @@
 
 > 📦 381.8 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2025
+> 🏆 56 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -61,11 +61,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-C                        5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+C                        5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -75,7 +75,7 @@ Shell                    3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 01:25:35 UTC
+ Last Updated on 27/09/2025 12:37:20 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
