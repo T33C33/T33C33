@@ -1,9 +1,7 @@
 ## SEO SPECIALIST & SOFTWARE DEVELOPER (</>)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
 
@@ -11,11 +9,11 @@
 
 > 📦 381.8 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2025
+> 🏆 59 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -61,7 +59,7 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 C                        5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
@@ -75,7 +73,7 @@ Shell                    3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/T33C33/T33C33/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 12:45:38 UTC
+ Last Updated on 16/10/2025 12:44:36 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T33C33&layout=compact&theme=radical)](https://github.com/T33C33)
